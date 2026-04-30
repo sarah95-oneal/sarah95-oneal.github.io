@@ -328,3 +328,12 @@ svg {
 
     }
 }
+
+.graphic-design {
+    padding: 0 0 6em 0;
+}
+
+.py-3 {
+    background-color: #f19cdf;
+    height: 100px;
+}
